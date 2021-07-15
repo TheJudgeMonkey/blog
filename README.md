@@ -1,24 +1,16 @@
-# README
+## Project - "Blog" by course The Odin Project
+**Simple "*Blog*"**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The main point is to learn more about the principles of working with Ruby on Rails
 
-Things you may want to cover:
+- Ruby v2.7.2
+- Ruby On Rails v6.1.4
+- CSS
+- SASS
+- SQL Database
 
-* Ruby version
+![home](screenshots/1.png "Home")
 
-* System dependencies
+![page](screenshots/2.png "Page")
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![comments](screenshots/3.png "Comments")
